@@ -20,6 +20,8 @@ Print each generated random number.
 End the program.
 
 ## PROGRAM:
+## DEVELOPED BY : KIRUBANITHI.S
+## REGISTER NO. : 212223220047
 ```c
 #include <stdio.h>
 
@@ -50,7 +52,7 @@ int main() {
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/0573f375-1deb-4232-9949-6e7506cf5af5)
+![image](https://github.com/user-attachments/assets/bc61c400-8f0e-4a58-b9bf-b7c4a6143e8a)
 
 ## Result :
 The program for Pseudorandom Number Generation is executed successfully
